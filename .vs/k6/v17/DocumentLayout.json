@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\damka\\k6\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\damka\\k6\\load-test.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:load-test.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\damka\\k6\\scenarios.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:scenarios.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,14 +23,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "load-test.js",
-              "DocumentMoniker": "C:\\Users\\damka\\k6\\load-test.js",
-              "RelativeDocumentMoniker": "load-test.js",
-              "ToolTip": "C:\\Users\\damka\\k6\\load-test.js",
-              "RelativeToolTip": "load-test.js",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAcAAAAWAAAA",
+              "Title": "scenarios.js",
+              "DocumentMoniker": "C:\\Users\\damka\\k6\\scenarios.js",
+              "RelativeDocumentMoniker": "scenarios.js",
+              "ToolTip": "C:\\Users\\damka\\k6\\scenarios.js",
+              "RelativeToolTip": "scenarios.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAHAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2025-03-04T17:29:09.287Z",
+              "WhenOpened": "2025-03-05T16:44:08.302Z",
               "EditorCaption": ""
             }
           ]

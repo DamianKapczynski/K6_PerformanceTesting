@@ -3,8 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\damka\\k6\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\damka\\k6\\scenarios.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:scenarios.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\damka\\k6\\system-tags.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:system-tags.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\damka\\k6\\custom-metrics.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:custom-metrics.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,15 +27,27 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "scenarios.js",
-              "DocumentMoniker": "C:\\Users\\damka\\k6\\scenarios.js",
-              "RelativeDocumentMoniker": "scenarios.js",
-              "ToolTip": "C:\\Users\\damka\\k6\\scenarios.js",
-              "RelativeToolTip": "scenarios.js",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAcAAAA",
+              "Title": "system-tags.js",
+              "DocumentMoniker": "C:\\Users\\damka\\k6\\system-tags.js",
+              "RelativeDocumentMoniker": "system-tags.js",
+              "ToolTip": "C:\\Users\\damka\\k6\\system-tags.js",
+              "RelativeToolTip": "system-tags.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2025-03-05T16:44:08.302Z",
+              "WhenOpened": "2025-04-13T15:02:33.293Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "custom-metrics.js",
+              "DocumentMoniker": "C:\\Users\\damka\\k6\\custom-metrics.js",
+              "RelativeDocumentMoniker": "custom-metrics.js",
+              "ToolTip": "C:\\Users\\damka\\k6\\custom-metrics.js",
+              "RelativeToolTip": "custom-metrics.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-04-01T16:20:14.417Z"
             }
           ]
         }

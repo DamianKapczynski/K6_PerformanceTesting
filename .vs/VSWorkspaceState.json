@@ -1,8 +1,8 @@
 {
   "ExpandedNodes": [
     "",
-    "\\Basic test scripts"
+    "\\basic_test_scripts"
   ],
-  "SelectedNode": "\\.gitignore",
+  "SelectedNode": "\\basic_test_scripts\\scenarios.js",
   "PreviewInSolutionExplorer": false
 }
